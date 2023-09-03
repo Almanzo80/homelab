@@ -1,2 +1,7 @@
 # homelab
-Homelab - Proxmox - Docker
+
+Proxmox - Docker
+
+This repository contains information about my homelab. 
+
+

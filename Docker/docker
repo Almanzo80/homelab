@@ -1,1 +1,13 @@
-Docker
+Docker 
+
+This could help you if you haven’t managed to solve the problem.
+
+    First check if the k3s service is running
+
+    systemctl status
+
+    If it is running then copy the k3s.yaml file
+
+    sudo cp /etc/rancher/k3s/k3s.yaml ~/.kube/config
+
+This should work.
